@@ -9,6 +9,7 @@ This platform is meticulously crafted to provide a seamless and efficient soluti
 - [Technology](#used)
 - [How to get started](#started)
 - [license](#license)
+- [demo](#demo)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -60,4 +61,11 @@ By actively participating in [Your Campus Lost & Found], you play a crucial role
 
 the project licensed by the [MIT license](license)
 
-#demo:
+# demo:
+
+![screenshot 1](<screenshots/Screenshot 2024-02-08 050413.png>)
+![screenshot 2](<screenshots/Screenshot 2024-02-08 050506.png>)
+![screenshot 3](<screenshots/Screenshot 2024-02-08 050541.png>)
+![screenshot 4](<screenshots/Screenshot 2024-02-08 050628.png>)
+![screenshot 5](<screenshots/Screenshot 2024-02-08 050301.png>)
+![screenshot 6](<screenshots/Screenshot 2024-02-08 050740.png>)
